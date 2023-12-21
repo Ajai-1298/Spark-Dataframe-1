@@ -6,4 +6,4 @@ This repo contains about the important functions which are used in pyspark for D
 - FILLNA()/NA.FILL(), DROPNA()
 - CASE STATEMENT ( WHEN() OTHERWISE() ), SPLIT(), CONCAT(), CONCAT_WS().
 - Explode functions (explode(), explode_outer(), posexplode(), posexplode_outer()).
-- Window Function (row_number(), rank(), dense_rank()), withColumn(), withColumnRenamed().
+- Window Function (row_number(), rank(), dense_rank(), percent_rank(), cume_dist()).
